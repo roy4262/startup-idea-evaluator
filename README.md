@@ -9,6 +9,11 @@ Built with **Expo + React Native**, using **local storage persistence**.
 
 ---
 
+## 🎥 Demo Video
+
+Watch the walkthrough here: [Loom Video Demo](https://www.loom.com/share/your-demo-video-link)
+
+
 ## ✨ Highlights
 
 - 📌 Submit ideas with **Name**, **Tagline**, and **Description**
